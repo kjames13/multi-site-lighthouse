@@ -1,0 +1,19 @@
+{
+  "name": "multisite-lighthouse-to-csv",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "run": "node script.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chrome-launcher": "^0.13.4",
+    "lighthouse": "^3.2.1"
+  },
+  "dependencies": {
+    "csvtojson": "^2.0.10"
+  }
+}
