@@ -1,1 +1,14 @@
-{"addressListPath":"./www-pages-10-08-2020.csv","lighthouseFlags":{"output":"json","disableDeviceEmulation":true,"onlyAudits":["uses-responsive-images"]},"chromeFlags":["--headless"],"writeTo":"results/","cumulativeReport":false,"start":0,"numToAudit":20}
+{
+  "addressListPath":"./www-pages-10-08-2020.csv",
+  "lighthouseFlags":
+  {
+    "output":"json",
+    "disableDeviceEmulation":true,
+    "onlyAudits":["uses-responsive-images"]
+  },
+  "chromeFlags":["--headless"],
+  "writeTo":"results/",
+  "cumulativeReport":false,
+  "start":0,
+  "numToAudit":20
+}
